@@ -9,15 +9,15 @@
 
 - 🌱 I’m currently learning **DevOps Tools**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vaibhavsp](https://github.com/Vaibhavsp)
+- 👨‍💻 All of my projects are available at [Vaibhavsp](https://github.com/Vaibhavsp)
 
-- 📝 I upload my articles on [hashnode.com/@Vaibhav19](hashnode.com/@Vaibhav19)
+- 📝 I upload my articles on [@Vaibhav19](hashnode.com/@Vaibhav19)
 
 - 💬 Ask me about **Cloud Computing, AWS**
 
 - 📫 How to reach me **vaibhav48parekh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kIuK0GDpMDCrCRHqh60KCRq0ENdSSsoc/view?usp=drive_link](https://drive.google.com/file/d/1kIuK0GDpMDCrCRHqh60KCRq0ENdSSsoc/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1kIuK0GDpMDCrCRHqh60KCRq0ENdSSsoc/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
